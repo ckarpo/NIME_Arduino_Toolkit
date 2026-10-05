@@ -1,8 +1,0 @@
-In this repository you will fine a code file for connecting basic sensors to Arduino and use them through serial connection to send input data to MAX/MSP
-
-Items in this repository
-1) Tinkercad project: https://www.tinkercad.com/things/4dJ6tpV1vfa-nime-toolkit?sharecode=BXT_UtDqIoPu8uNyg6y5OoPZoefTKJLRXwoaxkTs6gQ
-2) Arduino code file - with accelerometer
-3) images of connections
-4) MAX/MSP patch for receiving serial information
-5) list of components used in the example

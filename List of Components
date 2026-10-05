@@ -1,0 +1,18 @@
+List of Components in the kit
+
+1× Arduino Uno, 
+1× breadboard, 
+1× FSR, 
+1× 10 kΩ potentiometer, 
+1× push button, 
+1× red LED, 
+1× LDR, 
+5× resistors (220/330 Ω and 10 kΩ), 
+~20× male-to-male jumper wires, 
+1× USB cable, and 
+1× ADXL345 or MPU-6050 accelerometer module.
+
+
+Notes:
+For the LED you need resistor 220Ω
+For the button, LDR, Photoresistor and Force Sensor you need 10kΩ
